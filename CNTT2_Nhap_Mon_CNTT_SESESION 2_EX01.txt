@@ -1,0 +1,9 @@
+﻿Bài 1 : Đảm bảo an toàn dữ liệu trong hệ thống 
+Phần 1:
+* Lỗi 1: lưu vào ổ đĩa C giúp máy truy cập file nhanh nhất vì: máy tính mở nhanh hay chậm do bộ nhớ hoặc cấu hình.
+* Lỗi 2: lưu dô system 32 vì: mất an toàn sẽ bị mất dữ liệu khi cài lại windows
+* Lỗi 3:  đặt tên có khoảng trống 
+
+
+Phần 2:
+D:\HCMKS26_CNTT2\IT_108\session 02\bai1.py.
