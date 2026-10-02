@@ -1,0 +1,7 @@
+﻿Bài 2 : Xử lý lỗi đường dẫn tệp trong dự án nhóm 
+Phần 1:
+* Đường dẫn của Bình bị lỗi vì bình đang dùng là đường dẫn tuyệt đối có ổ dĩa C nên khi gửi qua máy khác sẽ bị gãy, nếu muốn gửi qua  máy khác hãy dùng đường dẫn tương đối.
+
+
+Phần  2:
+        ./file code
